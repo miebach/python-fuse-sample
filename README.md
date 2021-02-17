@@ -16,5 +16,5 @@ Example:
     mkdir mymountpoint
     python passthrough.py myfiles mymountpoint
 
-The directory myfiles is now mounted at mymoountpoint.
+The directory myfiles is now mounted at mymountpoint.
     
